@@ -4,6 +4,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+<hr>
 
 ### <div align="center">🚀 Desenvolvedor Full-Stack: Construo soluções robustas, de interfaces interativas a sistemas poderosos no backend.</div>  
   
