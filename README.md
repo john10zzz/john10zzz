@@ -1,5 +1,6 @@
 <hr>
-<img src="https://github.com/user-attachments/assets/711cdeb2-be8c-434f-a593-3cfb10a42029">
+<img src="<img width="1252" height="328" alt="Captura de tela 2025-08-22 221314" src="https://github.com/user-attachments/assets/cef19bc2-88c0-4389-99c7-b8d6c739ed8c" />
+">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
