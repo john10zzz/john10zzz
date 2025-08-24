@@ -1,5 +1,5 @@
 <hr>
-<img src="<img width="1252" height="328" alt="Captura de tela 2025-08-22 221314" src="https://github.com/user-attachments/assets/cef19bc2-88c0-4389-99c7-b8d6c739ed8c" />
+<img src="C:\Users\Usuário\OneDrive\Imagens\Screenshots\Captura de tela 2025-08-24 171433.png" />
 ">
 
 <div align="center">
